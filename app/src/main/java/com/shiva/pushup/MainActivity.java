@@ -21,4 +21,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
     }
+    String str = "ok";
+    String str2 = "";
 }
