@@ -21,4 +21,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
     }
+    
+    // Added via branch-02 github.
+        @Override
+    protected void onPause() {
+        super.onPause();
+    }
 }
