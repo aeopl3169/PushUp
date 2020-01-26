@@ -23,4 +23,5 @@ public class MainActivity extends AppCompatActivity {
     }
     String str = "ok";
     String str2 = "";
+    int a = 10;
 }
