@@ -21,9 +21,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
     }
-    String str = "ok";
-    String str2 = "";
-    int a = 10;
+    String str = "some str";
+    String str2 = "some str2";
+    int a = 255;
     int branch1 = 12+13+14;
     boolean t = true;
     String str3 = "ok Axis";
