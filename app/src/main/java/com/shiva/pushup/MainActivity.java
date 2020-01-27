@@ -34,4 +34,15 @@ public class MainActivity extends AppCompatActivity {
     protected void onPause() {
         super.onPause();
     }
+    String str = "ok";
+    String str2 = "";
+    int a = 10;
+    int branch1 = 12+13+14;
+    boolean t = true;
+    String str3 = "ok Axis";
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
 }
