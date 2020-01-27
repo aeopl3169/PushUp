@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         System.out.println("ok");
+        System.out.println("branch1");
     }
     String str = "ok";
     String str2 = "";
