@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     String str = "ok";
     String str2 = "";
     int a = 10;
-    int branch1 = 10+10;
-    boolean t = false;
+    int branch1 = 12+13+14;
+    boolean t = true;
+    String str3 = "ok Axis";
 }
