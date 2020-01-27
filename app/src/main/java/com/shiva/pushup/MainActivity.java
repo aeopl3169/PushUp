@@ -28,4 +28,8 @@ public class MainActivity extends AppCompatActivity {
     boolean t = true;
     String str3 = "ok Axis";
 
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
 }
