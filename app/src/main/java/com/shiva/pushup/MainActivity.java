@@ -21,10 +21,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
     }
-    
-    // Added via branch-02 github.
-        @Override
-    protected void onPause() {
-        super.onPause();
-    }
+    String str = "ok";
+    String str2 = "";
+    int a = 10;
+    int branch1 = 12+13+14;
+    boolean t = true;
+    String str3 = "ok Axis";
+
 }
