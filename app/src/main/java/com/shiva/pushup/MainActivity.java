@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
+        System.out.println("ok");
     }
     String str = "ok";
     String str2 = "";
@@ -27,4 +28,5 @@ public class MainActivity extends AppCompatActivity {
     int branch1 = 12+13+14;
     boolean t = true;
     String str3 = "ok Axis";
+
 }
