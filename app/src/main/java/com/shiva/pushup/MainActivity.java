@@ -23,15 +23,20 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("ok");
         System.out.println("branch1");
     }
-    String str = "ok";
-    String str2 = "";
-    int a = 10;
-    int branch1 = 12+13+14;
-    boolean t = true;
+    String str = "jon";
+    String str2 = "peter";
+    int a = 689;
+    int branch1 = 23+45+56;
+    boolean t = false;
     String str3 = "ok Axis";
 
     @Override
     protected void onPause() {
         super.onPause();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
     }
 }
