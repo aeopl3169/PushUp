@@ -24,5 +24,6 @@ public class MainActivity extends AppCompatActivity {
     String str = "ok";
     String str2 = "";
     int a = 10;
-    int branch1 = 10;
+    int branch1 = 10+10;
+    boolean t = false;
 }
